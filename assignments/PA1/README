@@ -59,9 +59,23 @@ Questions on PA1
 1. Describe your implementation of the stack machine in a single short
    paragraph.
 
+   1. I used a string to simulate the stack data structure and used an extra space to 
+   segment each elements.
+   2. I followed the handout and create a class called StackCommand to implement some basic stack method like push and pop. 
+   3. I create some subclasses to implement some operations to support this stack machine.
+
 
 2. List 3 things that you like about the Cool programming language.
-
+   
+   1. Easy
+   2. Simple
+   3. Objective design.
+ 
+   
 
 3. List 3 things you DON'T like about Cool.
 
+   1. Too less comparison operators.
+   2. Complicated expression form like "if <expr> then fi", "while <expr> loop pool".
+   3. Indention settings.
+   4. Don't have temporary variables but have to use let expression.

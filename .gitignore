@@ -1,2 +1,8 @@
 # Cool assembly code
 *.s
+
+# macos .DS_Store
+.DS_Store
+
+# pdf files
+handouts/
